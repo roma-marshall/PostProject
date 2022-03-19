@@ -1,4 +1,4 @@
-# project_name
+# A sample project with posts
 
 ## Project setup
 ```
