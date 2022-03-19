@@ -1,4 +1,4 @@
-# A sample project with posts
+# A sample project with posts using Vue.js v3
 
 ## Project setup
 ```
