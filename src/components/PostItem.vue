@@ -43,6 +43,5 @@ export default {
 
 .post__btns {
   display: flex;
-
 }
 </style>

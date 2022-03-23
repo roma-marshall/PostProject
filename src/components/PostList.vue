@@ -18,6 +18,7 @@
 
 <script>
 import PostItem from "@/components/PostItem";
+
 export default {
   components: {PostItem},
   props: {
@@ -34,11 +35,13 @@ export default {
 .post-list-leave-active {
   transition: all 0.5s ease;
 }
+
 .post-list-enter-from,
 .post-list-leave-to {
   opacity: 0;
   transform: translateX(130px);
 }
+
 .post-list-move {
   transition: transform 0.4s ease;
 }
