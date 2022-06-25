@@ -15,7 +15,6 @@
     <my-button
         style="align-self: flex-end; margin-top: 15px;"
         @click="createPost"
-
     >
       Create
     </my-button>
