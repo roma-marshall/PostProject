@@ -15,7 +15,7 @@ export default {
 }
 </script>
 
-<style>
+<style scoped>
 .dialog {
   top: 0;
   bottom: 0;
